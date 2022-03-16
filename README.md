@@ -8,6 +8,8 @@
 
 3. Parágrafos com destaque
 
+4. Criação de hiperlinks
+
 ## headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
@@ -60,12 +62,18 @@ Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado p
 
 Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 
-
-
 > Esse é um parágrafo destacado do resto do texto.
 > Esse aqui também.
 > e assim por diante.
 
 
-
 Os paragráfos acima estão destacados do restante do texto escrito.
+
+## Criação de hyperlinks
+
+
+A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
+Ex: [Google](www.google.com)
+
+
+[Voltar ao índice](#índice)
