@@ -1,18 +1,18 @@
 # Markdown Tutorial
 
-## Indice
+## Índice
 
-1. headers
+[1. Headers](#hearders)
 
-2. Itálicos, Negritos e Negritos Itálicos
+[2. Itálicos, Negritos e Negritos Itálicos](#itálidos-negritos-e-negritos-itálicos)
 
-3. Parágrafos com destaque
+[3. Parágrafos com destaque](#parágrafos-com-destaque)
 
-4. Criação de hiperlinks
+[4. Criação de hiperlinks](#criação-de-hiperlinks)
 
-5. Criando snippets de código
+[5. Criando snippets de código](#criando-snippets-de-código)
 
-## headers
+## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
 
@@ -40,6 +40,7 @@ Os headers têm 6 níveis que são representados pela quantidade de símbolos es
 
 ###### h6
 
+[Voltar ao índice](#índice)
 ## Itálicos, Negritos e Negritos Itálicos
 
 
@@ -58,6 +59,7 @@ Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado p
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
 
+[Voltar ao índice](#índice)
 ## Parágrafo com destaque
 
 
@@ -71,6 +73,7 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 
 Os paragráfos acima estão destacados do restante do texto escrito.
 
+[Voltar ao índice](#índice)
 ## Criação de hyperlinks
 
 
