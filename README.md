@@ -17,6 +17,8 @@
 [7. Listas não ordenadas](#listas-não-ordenadas)
 
 [8. Listas ordenadas](#listas-ordenadas)
+
+[9. Sublistas](#sub-listas)
 ## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
@@ -153,4 +155,16 @@ Para criação de listas ordenadas, utiliza-se o número seguido de um ponto no 
 
 [Voltar ao índice](#índice)
 
-teste de stash - teste 1
+## Sub-listas
+Para criação de sublistas utilizamos ambas a anotações explicadas acima junto com uma tabulação.
+1. linha 1
+- sub-item1
+- sub-item2
+2. linha 2
+1. sub-linha2.1
+2. sublinha2.2
+3. linha 3
+
+
+
+[Voltar ao índice](#índice)
