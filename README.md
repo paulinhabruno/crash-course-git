@@ -19,6 +19,8 @@
 [8. Listas ordenadas](#listas-ordenadas)
 
 [9. Sublistas](#sub-listas)
+
+[10. Figuras](#figuras)
 ## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
@@ -168,3 +170,15 @@ Para criação de sublistas utilizamos ambas a anotações explicadas acima junt
 
 
 [Voltar ao índice](#índice)
+
+
+##Figuras
+
+Para acrescentar imagens no texto utiliza-se o símbolo ![](). Onde a exclamação indica uma figura, o conteúdo do colchetes indica o texto alternativo caso a imagem não seja carregada e entre parênteses temos o link da imagem.
+
+![Logo do Git](https://cdn-icons-png.flaticon.com/512/52/52040.png)
+
+![Logo do Git Local](./img/1200px-Git-logo.svg.png)
+
+[Voltar ao índice](#índice)
+
